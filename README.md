@@ -1,7 +1,9 @@
 # **Ashutosh Anand**
 
-Noida| Mobile: 8610644651 | Email: ashutosh.anand13@gmail.com
- LinkedIn: [https://in.linkedin.com/in/ashutoshanand13](https://in.linkedin.com/in/ashutoshanand13)
+<p align="center"> Noida <br/> Mobile: 8610644651 <br/> Email: ashutosh.anand13@gmail.com</p>
+
+
+LinkedIn: [https://in.linkedin.com/in/ashutoshanand13](https://in.linkedin.com/in/ashutoshanand13)
  Resume : [https://ashutoshanand13.github.io/resume/](https://ashutoshanand13.github.io/resume/)
 
 ![](RackMultipart20200807-4-ecp868_html_ab03a6f56cfde25.gif)
