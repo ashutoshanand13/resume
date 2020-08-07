@@ -4,7 +4,8 @@
 
 
 LinkedIn: [https://in.linkedin.com/in/ashutoshanand13](https://in.linkedin.com/in/ashutoshanand13)
- Resume : [https://ashutoshanand13.github.io/resume/](https://ashutoshanand13.github.io/resume/)
+
+Resume : [https://ashutoshanand13.github.io/resume/](https://ashutoshanand13.github.io/resume/)
 
 ![](RackMultipart20200807-4-ecp868_html_ab03a6f56cfde25.gif)
 
